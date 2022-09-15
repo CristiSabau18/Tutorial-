@@ -1,2 +1,2 @@
-# Techdegree-project-1
+#techdegree tutorial
  My Personal Page Project
